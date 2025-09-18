@@ -10,8 +10,12 @@ public class GameManager : MonoBehaviour
         
     }
 
-    void Update()
+    /*void Update()
     {
-        if(KeyCode.J )
+        switch()
+        {
+
+        }
     }
+    */
 }
